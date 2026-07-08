@@ -1,0 +1,13 @@
+Username: admin
+Password: Emb@@kii
+Device address: 192.168.0.1
+
+Dynamic IPv4: 
+IGMP: No
+Ping: No
+
+Wi-Fi 2.4 GHz: 
+Network name: DIR-615-17CB
+Password: Emb@@kii
+
+Mode: Router
